@@ -14,7 +14,7 @@ public class Player {
 		 * 0. classe ControllerElemento che permette all'utente di modificare volume/luminosità dell'elemento selezionato, o di eseguirlo
 		 * 1. controlli sull'input dell'utente (vedi r.54 e metodo verificaInput() r.76)
 		 * 2. classe EsecuzioneElemento che riduce il codice per i metodi play() e show() delle classi figlie di Elemento;
-		 *  
+		 * 3. possibilità di sostituire un elemento salvato con un'altro elemento 
 		 *  */
 
 		
