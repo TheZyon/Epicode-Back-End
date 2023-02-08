@@ -1,0 +1,732 @@
+16:24:34.663 565  [main] INFO  Es3.Main3 - 
+16:26:00.513 650  [main] INFO  Es3.RegistroPresenze - 
+16:26:57.651 459  [main] INFO  Es3.RegistroPresenze - 
+16:27:59.627 568  [main] INFO  Es3.RegistroPresenze - 
+16:29:47.290 481  [main] INFO  Es3.Main3 - mariello
+16:31:31.652 649  [main] INFO  Es3.RegistroPresenze - 
+16:32:52.159 471  [main] INFO  Es3.RegistroPresenze - 
+16:33:35.237 459  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmino@0#Mr. Craig@10#Cavallo Cavalli@100#
+16:55:02.661 496  [main] INFO  Es3.RegistroPresenze - T
+16:55:02.665 500  [main] INFO  Es3.RegistroPresenze - u
+16:55:02.666 501  [main] INFO  Es3.RegistroPresenze - a
+16:55:02.666 501  [main] INFO  Es3.RegistroPresenze -  
+16:55:02.666 501  [main] INFO  Es3.RegistroPresenze - M
+16:55:02.666 501  [main] INFO  Es3.RegistroPresenze - a
+16:55:02.667 502  [main] INFO  Es3.RegistroPresenze - d
+16:55:02.667 502  [main] INFO  Es3.RegistroPresenze - r
+16:55:02.667 502  [main] INFO  Es3.RegistroPresenze - e
+17:06:56.701 443  [main] INFO  Es3.RegistroPresenze - T
+17:06:56.705 447  [main] INFO  Es3.RegistroPresenze - u
+17:06:56.705 447  [main] INFO  Es3.RegistroPresenze - a
+17:06:56.705 447  [main] INFO  Es3.RegistroPresenze -  
+17:06:56.706 448  [main] INFO  Es3.RegistroPresenze - M
+17:06:56.706 448  [main] INFO  Es3.RegistroPresenze - a
+17:06:56.707 449  [main] INFO  Es3.RegistroPresenze - d
+17:06:56.707 449  [main] INFO  Es3.RegistroPresenze - r
+17:06:56.708 450  [main] INFO  Es3.RegistroPresenze - e
+17:26:32.001 739  [main] INFO  Es3.RegistroPresenze - M
+17:26:32.007 745  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.007 745  [main] INFO  Es3.RegistroPresenze - r
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze - i
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze - e
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze - l
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze - l
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze - o
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze -  
+17:26:32.008 746  [main] INFO  Es3.RegistroPresenze - F
+17:26:32.009 747  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.009 747  [main] INFO  Es3.RegistroPresenze - n
+17:26:32.009 747  [main] INFO  Es3.RegistroPresenze - t
+17:26:32.009 747  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.009 747  [main] INFO  Es3.RegistroPresenze - s
+17:26:32.009 747  [main] INFO  Es3.RegistroPresenze - m
+17:26:32.011 749  [main] INFO  Es3.RegistroPresenze - i
+17:26:32.011 749  [main] INFO  Es3.RegistroPresenze - n
+17:26:32.011 749  [main] INFO  Es3.RegistroPresenze - o
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - @
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - 0
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - #
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - M
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - r
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - .
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze -  
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - C
+17:26:32.012 750  [main] INFO  Es3.RegistroPresenze - r
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - i
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - g
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - @
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - 1
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - 0
+17:26:32.013 751  [main] INFO  Es3.RegistroPresenze - #
+17:26:32.017 755  [main] INFO  Es3.RegistroPresenze - C
+17:26:32.017 755  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.017 755  [main] INFO  Es3.RegistroPresenze - v
+17:26:32.017 755  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.017 755  [main] INFO  Es3.RegistroPresenze - l
+17:26:32.019 757  [main] INFO  Es3.RegistroPresenze - l
+17:26:32.020 758  [main] INFO  Es3.RegistroPresenze - o
+17:26:32.020 758  [main] INFO  Es3.RegistroPresenze -  
+17:26:32.020 758  [main] INFO  Es3.RegistroPresenze - C
+17:26:32.020 758  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.020 758  [main] INFO  Es3.RegistroPresenze - v
+17:26:32.020 758  [main] INFO  Es3.RegistroPresenze - a
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - l
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - l
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - i
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - @
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - 1
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - 0
+17:26:32.021 759  [main] INFO  Es3.RegistroPresenze - 0
+17:26:32.022 760  [main] INFO  Es3.RegistroPresenze - #
+17:26:32.022 760  [main] ERROR Es3.RegistroPresenze - For input string: ""
+17:26:32.023 761  [main] ERROR Es3.RegistroPresenze - For input string: ""
+17:26:32.023 761  [main] ERROR Es3.RegistroPresenze - For input string: ""
+17:27:10.227 552  [main] INFO  Es3.RegistroPresenze - M
+17:27:10.229 554  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.230 555  [main] INFO  Es3.RegistroPresenze - r
+17:27:10.230 555  [main] INFO  Es3.RegistroPresenze - i
+17:27:10.231 556  [main] INFO  Es3.RegistroPresenze - e
+17:27:10.231 556  [main] INFO  Es3.RegistroPresenze - l
+17:27:10.231 556  [main] INFO  Es3.RegistroPresenze - l
+17:27:10.232 557  [main] INFO  Es3.RegistroPresenze - o
+17:27:10.232 557  [main] INFO  Es3.RegistroPresenze -  
+17:27:10.232 557  [main] INFO  Es3.RegistroPresenze - F
+17:27:10.232 557  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.233 558  [main] INFO  Es3.RegistroPresenze - n
+17:27:10.236 561  [main] INFO  Es3.RegistroPresenze - t
+17:27:10.239 564  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.240 565  [main] INFO  Es3.RegistroPresenze - s
+17:27:10.240 565  [main] INFO  Es3.RegistroPresenze - m
+17:27:10.240 565  [main] INFO  Es3.RegistroPresenze - i
+17:27:10.240 565  [main] INFO  Es3.RegistroPresenze - n
+17:27:10.241 566  [main] INFO  Es3.RegistroPresenze - o
+17:27:10.244 569  [main] INFO  Es3.RegistroPresenze - @
+17:27:10.244 569  [main] INFO  Es3.RegistroPresenze - 0
+17:27:10.244 569  [main] INFO  Es3.RegistroPresenze - #
+17:27:10.244 569  [main] INFO  Es3.RegistroPresenze - M
+17:27:10.244 569  [main] INFO  Es3.RegistroPresenze - r
+17:27:10.244 569  [main] INFO  Es3.RegistroPresenze - .
+17:27:10.245 570  [main] INFO  Es3.RegistroPresenze -  
+17:27:10.246 571  [main] INFO  Es3.RegistroPresenze - C
+17:27:10.247 572  [main] INFO  Es3.RegistroPresenze - r
+17:27:10.247 572  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.247 572  [main] INFO  Es3.RegistroPresenze - i
+17:27:10.248 573  [main] INFO  Es3.RegistroPresenze - g
+17:27:10.248 573  [main] INFO  Es3.RegistroPresenze - @
+17:27:10.248 573  [main] INFO  Es3.RegistroPresenze - 1
+17:27:10.249 574  [main] INFO  Es3.RegistroPresenze - 0
+17:27:10.249 574  [main] INFO  Es3.RegistroPresenze - #
+17:27:10.250 575  [main] INFO  Es3.RegistroPresenze - C
+17:27:10.251 576  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.253 578  [main] INFO  Es3.RegistroPresenze - v
+17:27:10.253 578  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.253 578  [main] INFO  Es3.RegistroPresenze - l
+17:27:10.253 578  [main] INFO  Es3.RegistroPresenze - l
+17:27:10.253 578  [main] INFO  Es3.RegistroPresenze - o
+17:27:10.255 580  [main] INFO  Es3.RegistroPresenze -  
+17:27:10.256 581  [main] INFO  Es3.RegistroPresenze - C
+17:27:10.256 581  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.257 582  [main] INFO  Es3.RegistroPresenze - v
+17:27:10.258 583  [main] INFO  Es3.RegistroPresenze - a
+17:27:10.259 584  [main] INFO  Es3.RegistroPresenze - l
+17:27:10.259 584  [main] INFO  Es3.RegistroPresenze - l
+17:27:10.259 584  [main] INFO  Es3.RegistroPresenze - i
+17:27:10.259 584  [main] INFO  Es3.RegistroPresenze - @
+17:27:10.260 585  [main] INFO  Es3.RegistroPresenze - 1
+17:27:10.260 585  [main] INFO  Es3.RegistroPresenze - 0
+17:27:10.260 585  [main] INFO  Es3.RegistroPresenze - 0
+17:27:10.261 586  [main] INFO  Es3.RegistroPresenze - #
+17:27:10.262 587  [main] ERROR Es3.RegistroPresenze - For input string: ""
+17:27:10.263 588  [main] ERROR Es3.RegistroPresenze - For input string: ""
+17:27:10.263 588  [main] ERROR Es3.RegistroPresenze - For input string: ""
+17:27:10.264 589  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:28:45.276 579  [main] ERROR Es3.RegistroPresenze - errore nel switch
+17:28:45.284 587  [main] ERROR Es3.RegistroPresenze - errore nel switch
+17:28:45.284 587  [main] ERROR Es3.RegistroPresenze - errore nel switch
+17:28:45.285 588  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:29:17.704 577  [main] ERROR Es3.RegistroPresenze - errore nel switchFor input string: ""
+17:29:17.707 580  [main] ERROR Es3.RegistroPresenze - errore nel switchFor input string: ""
+17:29:17.708 581  [main] ERROR Es3.RegistroPresenze - errore nel switchFor input string: ""
+17:29:17.708 581  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:31:08.196 577  [main] INFO  Es3.RegistroPresenze - M
+17:31:08.206 587  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.207 588  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.209 590  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.211 592  [main] INFO  Es3.RegistroPresenze - r
+17:31:08.211 592  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.211 592  [main] INFO  Es3.RegistroPresenze - i
+17:31:08.211 592  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.211 592  [main] INFO  Es3.RegistroPresenze - e
+17:31:08.211 592  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - l
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - l
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - o
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze -  
+17:31:08.212 593  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.214 595  [main] INFO  Es3.RegistroPresenze - F
+17:31:08.215 596  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.215 596  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.220 601  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.220 601  [main] INFO  Es3.RegistroPresenze - n
+17:31:08.220 601  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.221 602  [main] INFO  Es3.RegistroPresenze - t
+17:31:08.222 603  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.222 603  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.222 603  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.223 604  [main] INFO  Es3.RegistroPresenze - s
+17:31:08.224 605  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.226 607  [main] INFO  Es3.RegistroPresenze - m
+17:31:08.226 607  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.226 607  [main] INFO  Es3.RegistroPresenze - i
+17:31:08.226 607  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - n
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - o
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - @
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - case @
+17:31:08.227 608  [main] INFO  Es3.RegistroPresenze - 0
+17:31:08.228 609  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.228 609  [main] INFO  Es3.RegistroPresenze - #
+17:31:08.228 609  [main] INFO  Es3.RegistroPresenze - case @
+17:31:08.230 611  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:31:08.231 612  [main] INFO  Es3.RegistroPresenze - M
+17:31:08.231 612  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.231 612  [main] INFO  Es3.RegistroPresenze - r
+17:31:08.231 612  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.232 613  [main] INFO  Es3.RegistroPresenze - .
+17:31:08.232 613  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.232 613  [main] INFO  Es3.RegistroPresenze -  
+17:31:08.233 614  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.234 615  [main] INFO  Es3.RegistroPresenze - C
+17:31:08.235 616  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.235 616  [main] INFO  Es3.RegistroPresenze - r
+17:31:08.236 617  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.236 617  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.236 617  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.237 618  [main] INFO  Es3.RegistroPresenze - i
+17:31:08.238 619  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.239 620  [main] INFO  Es3.RegistroPresenze - g
+17:31:08.239 620  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.239 620  [main] INFO  Es3.RegistroPresenze - @
+17:31:08.240 621  [main] INFO  Es3.RegistroPresenze - case @
+17:31:08.244 625  [main] INFO  Es3.RegistroPresenze - 1
+17:31:08.244 625  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.244 625  [main] INFO  Es3.RegistroPresenze - 0
+17:31:08.246 627  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.247 628  [main] INFO  Es3.RegistroPresenze - #
+17:31:08.247 628  [main] INFO  Es3.RegistroPresenze - case @
+17:31:08.248 629  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:31:08.250 631  [main] INFO  Es3.RegistroPresenze - C
+17:31:08.251 632  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.252 633  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.255 636  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.256 637  [main] INFO  Es3.RegistroPresenze - v
+17:31:08.264 645  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.264 645  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.266 647  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.267 648  [main] INFO  Es3.RegistroPresenze - l
+17:31:08.267 648  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.268 649  [main] INFO  Es3.RegistroPresenze - l
+17:31:08.268 649  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.268 649  [main] INFO  Es3.RegistroPresenze - o
+17:31:08.268 649  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.271 652  [main] INFO  Es3.RegistroPresenze -  
+17:31:08.271 652  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - C
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - v
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.272 653  [main] INFO  Es3.RegistroPresenze - a
+17:31:08.273 654  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.274 655  [main] INFO  Es3.RegistroPresenze - l
+17:31:08.274 655  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.275 656  [main] INFO  Es3.RegistroPresenze - l
+17:31:08.275 656  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.275 656  [main] INFO  Es3.RegistroPresenze - i
+17:31:08.275 656  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.275 656  [main] INFO  Es3.RegistroPresenze - @
+17:31:08.276 657  [main] INFO  Es3.RegistroPresenze - case @
+17:31:08.276 657  [main] INFO  Es3.RegistroPresenze - 1
+17:31:08.276 657  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.276 657  [main] INFO  Es3.RegistroPresenze - 0
+17:31:08.276 657  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.276 657  [main] INFO  Es3.RegistroPresenze - 0
+17:31:08.279 660  [main] INFO  Es3.RegistroPresenze - letter
+17:31:08.279 660  [main] INFO  Es3.RegistroPresenze - #
+17:31:08.280 661  [main] INFO  Es3.RegistroPresenze - case @
+17:31:08.287 668  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:31:08.288 669  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:33:55.530 580  [main] INFO  Es3.RegistroPresenze - M
+17:33:55.533 583  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.534 584  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.535 585  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.535 585  [main] INFO  Es3.RegistroPresenze - r
+17:33:55.536 586  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.536 586  [main] INFO  Es3.RegistroPresenze - i
+17:33:55.536 586  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.536 586  [main] INFO  Es3.RegistroPresenze - e
+17:33:55.537 587  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.537 587  [main] INFO  Es3.RegistroPresenze - l
+17:33:55.537 587  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.538 588  [main] INFO  Es3.RegistroPresenze - l
+17:33:55.539 589  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.540 590  [main] INFO  Es3.RegistroPresenze - o
+17:33:55.540 590  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.540 590  [main] INFO  Es3.RegistroPresenze -  
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - F
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - n
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - t
+17:33:55.541 591  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - s
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - m
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.542 592  [main] INFO  Es3.RegistroPresenze - i
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - n
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - o
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - @
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - case @
+17:33:55.543 593  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:33:55.544 594  [main] INFO  Es3.RegistroPresenze - 0
+17:33:55.544 594  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.544 594  [main] INFO  Es3.RegistroPresenze - #
+17:33:55.544 594  [main] INFO  Es3.RegistroPresenze - case #
+17:33:55.544 594  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 
+17:33:55.544 594  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:33:55.545 595  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:33:55.545 595  [main] INFO  Es3.RegistroPresenze - M
+17:33:55.545 595  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.545 595  [main] INFO  Es3.RegistroPresenze - r
+17:33:55.545 595  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.545 595  [main] INFO  Es3.RegistroPresenze - .
+17:33:55.546 596  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.546 596  [main] INFO  Es3.RegistroPresenze -  
+17:33:55.546 596  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.546 596  [main] INFO  Es3.RegistroPresenze - C
+17:33:55.546 596  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.546 596  [main] INFO  Es3.RegistroPresenze - r
+17:33:55.547 597  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.547 597  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.547 597  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.547 597  [main] INFO  Es3.RegistroPresenze - i
+17:33:55.547 597  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - g
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - @
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - case @
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - 1
+17:33:55.548 598  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.550 600  [main] INFO  Es3.RegistroPresenze - 0
+17:33:55.550 600  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.551 601  [main] INFO  Es3.RegistroPresenze - #
+17:33:55.551 601  [main] INFO  Es3.RegistroPresenze - case #
+17:33:55.551 601  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 
+17:33:55.551 601  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:33:55.551 601  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:33:55.553 603  [main] INFO  Es3.RegistroPresenze - C
+17:33:55.554 604  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.555 605  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.557 607  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.559 609  [main] INFO  Es3.RegistroPresenze - v
+17:33:55.560 610  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.560 610  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.560 610  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.561 611  [main] INFO  Es3.RegistroPresenze - l
+17:33:55.562 612  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.563 613  [main] INFO  Es3.RegistroPresenze - l
+17:33:55.563 613  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.564 614  [main] INFO  Es3.RegistroPresenze - o
+17:33:55.565 615  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.566 616  [main] INFO  Es3.RegistroPresenze -  
+17:33:55.566 616  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.567 617  [main] INFO  Es3.RegistroPresenze - C
+17:33:55.568 618  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.570 620  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.570 620  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.571 621  [main] INFO  Es3.RegistroPresenze - v
+17:33:55.572 622  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.573 623  [main] INFO  Es3.RegistroPresenze - a
+17:33:55.575 625  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.575 625  [main] INFO  Es3.RegistroPresenze - l
+17:33:55.575 625  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.576 626  [main] INFO  Es3.RegistroPresenze - l
+17:33:55.576 626  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.576 626  [main] INFO  Es3.RegistroPresenze - i
+17:33:55.576 626  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.577 627  [main] INFO  Es3.RegistroPresenze - @
+17:33:55.577 627  [main] INFO  Es3.RegistroPresenze - case @
+17:33:55.577 627  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:33:55.578 628  [main] INFO  Es3.RegistroPresenze - 1
+17:33:55.578 628  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.578 628  [main] INFO  Es3.RegistroPresenze - 0
+17:33:55.579 629  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.580 630  [main] INFO  Es3.RegistroPresenze - 0
+17:33:55.580 630  [main] INFO  Es3.RegistroPresenze - letter
+17:33:55.580 630  [main] INFO  Es3.RegistroPresenze - #
+17:33:55.580 630  [main] INFO  Es3.RegistroPresenze - case #
+17:33:55.581 631  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 
+17:33:55.581 631  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:33:55.581 631  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:33:55.582 632  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:34:56.982 508  [main] INFO  Es3.RegistroPresenze - M
+17:34:56.985 511  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.986 512  [main] INFO  Es3.RegistroPresenze - M
+17:34:56.986 512  [main] INFO  Es3.RegistroPresenze - a
+17:34:56.986 512  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.986 512  [main] INFO  Es3.RegistroPresenze - Ma
+17:34:56.986 512  [main] INFO  Es3.RegistroPresenze - r
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - Mar
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - i
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - Mari
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - e
+17:34:56.987 513  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - Marie
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - l
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - Mariel
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - l
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.988 514  [main] INFO  Es3.RegistroPresenze - Mariell
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze - o
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze - Mariello
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze -  
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze - Mariello 
+17:34:56.989 515  [main] INFO  Es3.RegistroPresenze - F
+17:34:56.990 516  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.990 516  [main] INFO  Es3.RegistroPresenze - Mariello F
+17:34:56.990 516  [main] INFO  Es3.RegistroPresenze - a
+17:34:56.990 516  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.992 518  [main] INFO  Es3.RegistroPresenze - Mariello Fa
+17:34:56.992 518  [main] INFO  Es3.RegistroPresenze - n
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - Mariello Fan
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - t
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - Mariello Fant
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - a
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.993 519  [main] INFO  Es3.RegistroPresenze - Mariello Fanta
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - s
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - Mariello Fantas
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - m
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - Mariello Fantasm
+17:34:56.994 520  [main] INFO  Es3.RegistroPresenze - i
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmi
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - n
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmin
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - o
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.995 521  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmino
+17:34:56.996 522  [main] INFO  Es3.RegistroPresenze - @
+17:34:56.997 523  [main] INFO  Es3.RegistroPresenze - case @
+17:34:56.997 523  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:34:56.997 523  [main] INFO  Es3.RegistroPresenze - 0
+17:34:56.997 523  [main] INFO  Es3.RegistroPresenze - letter
+17:34:56.997 523  [main] INFO  Es3.RegistroPresenze - 0
+17:34:56.997 523  [main] INFO  Es3.RegistroPresenze - #
+17:34:56.998 524  [main] INFO  Es3.RegistroPresenze - case #
+17:34:56.998 524  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 
+17:34:56.998 524  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:34:56.998 524  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:34:57.001 527  [main] INFO  Es3.RegistroPresenze - M
+17:34:57.002 528  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.003 529  [main] INFO  Es3.RegistroPresenze - M
+17:34:57.003 529  [main] INFO  Es3.RegistroPresenze - r
+17:34:57.003 529  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.003 529  [main] INFO  Es3.RegistroPresenze - Mr
+17:34:57.004 530  [main] INFO  Es3.RegistroPresenze - .
+17:34:57.004 530  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.004 530  [main] INFO  Es3.RegistroPresenze - Mr.
+17:34:57.007 533  [main] INFO  Es3.RegistroPresenze -  
+17:34:57.011 537  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.011 537  [main] INFO  Es3.RegistroPresenze - Mr. 
+17:34:57.011 537  [main] INFO  Es3.RegistroPresenze - C
+17:34:57.011 537  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.011 537  [main] INFO  Es3.RegistroPresenze - Mr. C
+17:34:57.012 538  [main] INFO  Es3.RegistroPresenze - r
+17:34:57.012 538  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.013 539  [main] INFO  Es3.RegistroPresenze - Mr. Cr
+17:34:57.013 539  [main] INFO  Es3.RegistroPresenze - a
+17:34:57.013 539  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.013 539  [main] INFO  Es3.RegistroPresenze - Mr. Cra
+17:34:57.013 539  [main] INFO  Es3.RegistroPresenze - i
+17:34:57.014 540  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.014 540  [main] INFO  Es3.RegistroPresenze - Mr. Crai
+17:34:57.014 540  [main] INFO  Es3.RegistroPresenze - g
+17:34:57.014 540  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.015 541  [main] INFO  Es3.RegistroPresenze - Mr. Craig
+17:34:57.015 541  [main] INFO  Es3.RegistroPresenze - @
+17:34:57.015 541  [main] INFO  Es3.RegistroPresenze - case @
+17:34:57.015 541  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:34:57.016 542  [main] INFO  Es3.RegistroPresenze - 1
+17:34:57.016 542  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.016 542  [main] INFO  Es3.RegistroPresenze - 1
+17:34:57.016 542  [main] INFO  Es3.RegistroPresenze - 0
+17:34:57.016 542  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.017 543  [main] INFO  Es3.RegistroPresenze - 10
+17:34:57.017 543  [main] INFO  Es3.RegistroPresenze - #
+17:34:57.017 543  [main] INFO  Es3.RegistroPresenze - case #
+17:34:57.018 544  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 
+17:34:57.018 544  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:34:57.018 544  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:34:57.019 545  [main] INFO  Es3.RegistroPresenze - C
+17:34:57.019 545  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.019 545  [main] INFO  Es3.RegistroPresenze - C
+17:34:57.020 546  [main] INFO  Es3.RegistroPresenze - a
+17:34:57.020 546  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.020 546  [main] INFO  Es3.RegistroPresenze - Ca
+17:34:57.020 546  [main] INFO  Es3.RegistroPresenze - v
+17:34:57.020 546  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.020 546  [main] INFO  Es3.RegistroPresenze - Cav
+17:34:57.021 547  [main] INFO  Es3.RegistroPresenze - a
+17:34:57.022 548  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.023 549  [main] INFO  Es3.RegistroPresenze - Cava
+17:34:57.025 551  [main] INFO  Es3.RegistroPresenze - l
+17:34:57.026 552  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.027 553  [main] INFO  Es3.RegistroPresenze - Caval
+17:34:57.028 554  [main] INFO  Es3.RegistroPresenze - l
+17:34:57.028 554  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.028 554  [main] INFO  Es3.RegistroPresenze - Cavall
+17:34:57.029 555  [main] INFO  Es3.RegistroPresenze - o
+17:34:57.029 555  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.029 555  [main] INFO  Es3.RegistroPresenze - Cavallo
+17:34:57.030 556  [main] INFO  Es3.RegistroPresenze -  
+17:34:57.030 556  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.031 557  [main] INFO  Es3.RegistroPresenze - Cavallo 
+17:34:57.031 557  [main] INFO  Es3.RegistroPresenze - C
+17:34:57.031 557  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.031 557  [main] INFO  Es3.RegistroPresenze - Cavallo C
+17:34:57.032 558  [main] INFO  Es3.RegistroPresenze - a
+17:34:57.032 558  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.032 558  [main] INFO  Es3.RegistroPresenze - Cavallo Ca
+17:34:57.032 558  [main] INFO  Es3.RegistroPresenze - v
+17:34:57.032 558  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.033 559  [main] INFO  Es3.RegistroPresenze - Cavallo Cav
+17:34:57.033 559  [main] INFO  Es3.RegistroPresenze - a
+17:34:57.033 559  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.033 559  [main] INFO  Es3.RegistroPresenze - Cavallo Cava
+17:34:57.033 559  [main] INFO  Es3.RegistroPresenze - l
+17:34:57.033 559  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.034 560  [main] INFO  Es3.RegistroPresenze - Cavallo Caval
+17:34:57.034 560  [main] INFO  Es3.RegistroPresenze - l
+17:34:57.034 560  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.034 560  [main] INFO  Es3.RegistroPresenze - Cavallo Cavall
+17:34:57.034 560  [main] INFO  Es3.RegistroPresenze - i
+17:34:57.035 561  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.035 561  [main] INFO  Es3.RegistroPresenze - Cavallo Cavalli
+17:34:57.035 561  [main] INFO  Es3.RegistroPresenze - @
+17:34:57.035 561  [main] INFO  Es3.RegistroPresenze - case @
+17:34:57.035 561  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:34:57.036 562  [main] INFO  Es3.RegistroPresenze - 1
+17:34:57.036 562  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.036 562  [main] INFO  Es3.RegistroPresenze - 1
+17:34:57.036 562  [main] INFO  Es3.RegistroPresenze - 0
+17:34:57.036 562  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.037 563  [main] INFO  Es3.RegistroPresenze - 10
+17:34:57.037 563  [main] INFO  Es3.RegistroPresenze - 0
+17:34:57.037 563  [main] INFO  Es3.RegistroPresenze - letter
+17:34:57.038 564  [main] INFO  Es3.RegistroPresenze - 100
+17:34:57.038 564  [main] INFO  Es3.RegistroPresenze - #
+17:34:57.039 565  [main] INFO  Es3.RegistroPresenze - case #
+17:34:57.039 565  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 
+17:34:57.040 566  [main] INFO  Es3.RegistroPresenze - in name ho salvato: 
+17:34:57.043 569  [main] ERROR Es3.RegistroPresenze - errore nel switch For input string: ""
+17:34:57.044 570  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:35:41.828 423  [main] INFO  Es3.RegistroPresenze - M
+17:35:41.832 427  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.832 427  [main] INFO  Es3.RegistroPresenze - M
+17:35:41.832 427  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.832 427  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.832 427  [main] INFO  Es3.RegistroPresenze - Ma
+17:35:41.833 428  [main] INFO  Es3.RegistroPresenze - r
+17:35:41.833 428  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.833 428  [main] INFO  Es3.RegistroPresenze - Mar
+17:35:41.833 428  [main] INFO  Es3.RegistroPresenze - i
+17:35:41.833 428  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.836 431  [main] INFO  Es3.RegistroPresenze - Mari
+17:35:41.836 431  [main] INFO  Es3.RegistroPresenze - e
+17:35:41.837 432  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.837 432  [main] INFO  Es3.RegistroPresenze - Marie
+17:35:41.837 432  [main] INFO  Es3.RegistroPresenze - l
+17:35:41.840 435  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.841 436  [main] INFO  Es3.RegistroPresenze - Mariel
+17:35:41.841 436  [main] INFO  Es3.RegistroPresenze - l
+17:35:41.843 438  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.844 439  [main] INFO  Es3.RegistroPresenze - Mariell
+17:35:41.844 439  [main] INFO  Es3.RegistroPresenze - o
+17:35:41.844 439  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.845 440  [main] INFO  Es3.RegistroPresenze - Mariello
+17:35:41.845 440  [main] INFO  Es3.RegistroPresenze -  
+17:35:41.847 442  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.847 442  [main] INFO  Es3.RegistroPresenze - Mariello 
+17:35:41.847 442  [main] INFO  Es3.RegistroPresenze - F
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - Mariello F
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - Mariello Fa
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - n
+17:35:41.848 443  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.849 444  [main] INFO  Es3.RegistroPresenze - Mariello Fan
+17:35:41.849 444  [main] INFO  Es3.RegistroPresenze - t
+17:35:41.849 444  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.849 444  [main] INFO  Es3.RegistroPresenze - Mariello Fant
+17:35:41.849 444  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.849 444  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.850 445  [main] INFO  Es3.RegistroPresenze - Mariello Fanta
+17:35:41.851 446  [main] INFO  Es3.RegistroPresenze - s
+17:35:41.852 447  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.852 447  [main] INFO  Es3.RegistroPresenze - Mariello Fantas
+17:35:41.853 448  [main] INFO  Es3.RegistroPresenze - m
+17:35:41.853 448  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.854 449  [main] INFO  Es3.RegistroPresenze - Mariello Fantasm
+17:35:41.857 452  [main] INFO  Es3.RegistroPresenze - i
+17:35:41.857 452  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.860 455  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmi
+17:35:41.860 455  [main] INFO  Es3.RegistroPresenze - n
+17:35:41.861 456  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.862 457  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmin
+17:35:41.864 459  [main] INFO  Es3.RegistroPresenze - o
+17:35:41.864 459  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.864 459  [main] INFO  Es3.RegistroPresenze - Mariello Fantasmino
+17:35:41.865 460  [main] INFO  Es3.RegistroPresenze - @
+17:35:41.865 460  [main] INFO  Es3.RegistroPresenze - case @
+17:35:41.867 462  [main] INFO  Es3.RegistroPresenze - in name ho salvato: Mariello Fantasmino
+17:35:41.868 463  [main] INFO  Es3.RegistroPresenze - 0
+17:35:41.872 467  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.872 467  [main] INFO  Es3.RegistroPresenze - 0
+17:35:41.873 468  [main] INFO  Es3.RegistroPresenze - #
+17:35:41.873 468  [main] INFO  Es3.RegistroPresenze - case #
+17:35:41.874 469  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 0
+17:35:41.875 470  [main] INFO  Es3.RegistroPresenze - in name ho salvato: Mariello Fantasmino
+17:35:41.876 471  [main] INFO  Es3.RegistroPresenze - M
+17:35:41.876 471  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.876 471  [main] INFO  Es3.RegistroPresenze - M
+17:35:41.876 471  [main] INFO  Es3.RegistroPresenze - r
+17:35:41.877 472  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.877 472  [main] INFO  Es3.RegistroPresenze - Mr
+17:35:41.879 474  [main] INFO  Es3.RegistroPresenze - .
+17:35:41.879 474  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.879 474  [main] INFO  Es3.RegistroPresenze - Mr.
+17:35:41.880 475  [main] INFO  Es3.RegistroPresenze -  
+17:35:41.880 475  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.881 476  [main] INFO  Es3.RegistroPresenze - Mr. 
+17:35:41.881 476  [main] INFO  Es3.RegistroPresenze - C
+17:35:41.881 476  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.881 476  [main] INFO  Es3.RegistroPresenze - Mr. C
+17:35:41.883 478  [main] INFO  Es3.RegistroPresenze - r
+17:35:41.883 478  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.883 478  [main] INFO  Es3.RegistroPresenze - Mr. Cr
+17:35:41.884 479  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.885 480  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.888 483  [main] INFO  Es3.RegistroPresenze - Mr. Cra
+17:35:41.889 484  [main] INFO  Es3.RegistroPresenze - i
+17:35:41.889 484  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.895 490  [main] INFO  Es3.RegistroPresenze - Mr. Crai
+17:35:41.896 491  [main] INFO  Es3.RegistroPresenze - g
+17:35:41.896 491  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.896 491  [main] INFO  Es3.RegistroPresenze - Mr. Craig
+17:35:41.896 491  [main] INFO  Es3.RegistroPresenze - @
+17:35:41.896 491  [main] INFO  Es3.RegistroPresenze - case @
+17:35:41.896 491  [main] INFO  Es3.RegistroPresenze - in name ho salvato: Mr. Craig
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - 1
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - 1
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - 0
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - 10
+17:35:41.897 492  [main] INFO  Es3.RegistroPresenze - #
+17:35:41.898 493  [main] INFO  Es3.RegistroPresenze - case #
+17:35:41.899 494  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 10
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - in name ho salvato: Mr. Craig
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - C
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - C
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.900 495  [main] INFO  Es3.RegistroPresenze - Ca
+17:35:41.901 496  [main] INFO  Es3.RegistroPresenze - v
+17:35:41.902 497  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.904 499  [main] INFO  Es3.RegistroPresenze - Cav
+17:35:41.905 500  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.915 510  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.916 511  [main] INFO  Es3.RegistroPresenze - Cava
+17:35:41.916 511  [main] INFO  Es3.RegistroPresenze - l
+17:35:41.916 511  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.916 511  [main] INFO  Es3.RegistroPresenze - Caval
+17:35:41.916 511  [main] INFO  Es3.RegistroPresenze - l
+17:35:41.917 512  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.919 514  [main] INFO  Es3.RegistroPresenze - Cavall
+17:35:41.919 514  [main] INFO  Es3.RegistroPresenze - o
+17:35:41.920 515  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.920 515  [main] INFO  Es3.RegistroPresenze - Cavallo
+17:35:41.920 515  [main] INFO  Es3.RegistroPresenze -  
+17:35:41.920 515  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.921 516  [main] INFO  Es3.RegistroPresenze - Cavallo 
+17:35:41.921 516  [main] INFO  Es3.RegistroPresenze - C
+17:35:41.921 516  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.921 516  [main] INFO  Es3.RegistroPresenze - Cavallo C
+17:35:41.924 519  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.925 520  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.925 520  [main] INFO  Es3.RegistroPresenze - Cavallo Ca
+17:35:41.925 520  [main] INFO  Es3.RegistroPresenze - v
+17:35:41.925 520  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.927 522  [main] INFO  Es3.RegistroPresenze - Cavallo Cav
+17:35:41.927 522  [main] INFO  Es3.RegistroPresenze - a
+17:35:41.927 522  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.927 522  [main] INFO  Es3.RegistroPresenze - Cavallo Cava
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - l
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - Cavallo Caval
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - l
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - Cavallo Cavall
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - i
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - Cavallo Cavalli
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - @
+17:35:41.928 523  [main] INFO  Es3.RegistroPresenze - case @
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - in name ho salvato: Cavallo Cavalli
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - 1
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - 1
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - 0
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - 10
+17:35:41.929 524  [main] INFO  Es3.RegistroPresenze - 0
+17:35:41.931 526  [main] INFO  Es3.RegistroPresenze - letter
+17:35:41.931 526  [main] INFO  Es3.RegistroPresenze - 100
+17:35:41.931 526  [main] INFO  Es3.RegistroPresenze - #
+17:35:41.931 526  [main] INFO  Es3.RegistroPresenze - case #
+17:35:41.932 527  [main] INFO  Es3.RegistroPresenze - in presenze ho salvato: 100
+17:35:41.932 527  [main] INFO  Es3.RegistroPresenze - in name ho salvato: Cavallo Cavalli
+17:35:41.932 527  [main] INFO  Es3.Main3 - Stampo lista recuperata
+17:35:41.934 529  [main] INFO  Es3.Main3 - Mariello Fantasmino
+17:35:41.935 530  [main] INFO  Es3.Main3 - Mr. Craig
+17:35:41.936 531  [main] INFO  Es3.Main3 - Cavallo Cavalli

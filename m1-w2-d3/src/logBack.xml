@@ -1,0 +1,28 @@
+<configuration>
+
+  <appender name="CONSOLE_OUTPUT" class="ch.qos.logback.core.ConsoleAppender">
+    <!-- encoders are assigned the type
+         ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{35} %msg%n</pattern>
+       <!--  tempo, thread che ah scatenato la stampa, livello di stampa,  ???, ???, messaggio dato come parametro al logger-->
+    </encoder>
+  </appender>
+  
+  <appender name="FILE_OUTPUT" class="ch.qos.logback.core.FileAppender">
+    <file>testFile.log</file>
+    <append>true</append>
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} %-4relative [%thread] %-5level %logger{35} - %msg%n</pattern>
+    </encoder>
+  </appender>
+  
+  
+
+  <root level="debug"> <!-- in fase di debug usa ... -->
+    <appender-ref ref="CONSOLE_OUTPUT" /> <!--  l'appender con il tale name -->
+    <appender-ref  ref="FILE_OUTPUT"/>
+  </root>
+  
+  
+</configuration>
