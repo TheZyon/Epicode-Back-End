@@ -1,5 +1,8 @@
 package Es2;
 
+import java.util.Arrays;
+import java.util.List;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,44 +13,55 @@ public class MainSum {
 		
 		
 		double[] arrayNums=new double[3000];
-		double[] a1=new double[1000];
-		double[] a2=new double[1000];
-		double[] a3=new double[1000];
+
+		
+		double[][] a= new double[1000][1000];
+		
+		
 		
 		//popolamento
 		for(int i=0; i<3000; i++) {
 			arrayNums[i]=Math.random()*100;
 		}
 		
-		//popolo i tre array parziali
-		
-		for(int j=0; j<1000;j++) {
-			a1[j]=arrayNums[j];
-		}
-		for(int j=1000; j<2000;j++) {
-			a2[j-1000]=arrayNums[j];
-		}
-		for(int j=2000; j<3000;j++) {
-			a2[j-2000]=arrayNums[j];
-		}
 	
+	
+		for(int i=0; i<3; i++) {
+			for(int j=1000*i; j<1000*(i+1); j++) {
+				a[i][j-1000*i]=arrayNums[j];
+			}
+		}
+		
+		PartialSumThread[] t = {new PartialSumThread(a[0]), new PartialSumThread(a[1]), new PartialSumThread(a[2])};
+		List<PartialSumThread> l= Arrays.asList(t);
 		
 		
-		PartialSumThread t1=new PartialSumThread(a1);
-		PartialSumThread t2=new PartialSumThread(a2);
-		PartialSumThread t3=new PartialSumThread(a3);
+		l.forEach(p->p.start());
 		
-		t1.start();
-		t2.start();
-		t3.start();
 		
-		log.info("sum is: "+ (t1.getPartialSum()+t2.getPartialSum()+t3.getPartialSum()));
+		
+		log.info("somma attuale t[2]: "+t[2].getPartialSum() + " -> osservare come ancora non ha completato la somma");
+		log.info("somma a[2]: "+sum(a[2]));
+		
+		
+		try {
+			t[0].join();
+			t[1].join();
+			t[2].join();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		double [] pSums= {t[0].getPartialSum(), t[1].getPartialSum(), t[2].getPartialSum()};
+		
+		log.info("sum is: "+ sum(pSums));
 		
 		//controverifica (perché differenze tra le due somme???)
 		
 		log.info("somma completa: "+sum(arrayNums));
-		log.info("somma somme parziali: " + (sum(a1)+sum(a2)+sum(a3)));
-		
+		log.info("somma somme parziali: " + (sum(a[0])+sum(a[1])+sum(a[2])));
+	
 		
 	}
 

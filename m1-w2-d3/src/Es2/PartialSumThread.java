@@ -12,11 +12,7 @@ public class PartialSumThread extends Thread {
 	public void run() {
 	
 	
-	for(double d : numArray) {
-		partialSum+=d;
-	}
-	
-	
+	partialSum=MainSum.sum(numArray);
 	
 	}
 
@@ -24,6 +20,7 @@ public class PartialSumThread extends Thread {
 		return partialSum;
 	}
 
+	
 	
 	
 	
