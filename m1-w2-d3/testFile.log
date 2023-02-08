@@ -730,3 +730,11 @@
 17:35:41.934 529  [main] INFO  Es3.Main3 - Mariello Fantasmino
 17:35:41.935 530  [main] INFO  Es3.Main3 - Mr. Craig
 17:35:41.936 531  [main] INFO  Es3.Main3 - Cavallo Cavalli
+17:51:09.453 442  [main] INFO  Es2.MainSum - sum is: 102122.23216129979
+17:51:09.463 452  [main] INFO  Es2.MainSum - 151574.18745080114
+18:10:59.345 708  [main] INFO  Es2.MainSum - sum is: 100186.98647538868
+18:10:59.348 711  [main] INFO  Es2.MainSum - somma completa: 152022.5421554309
+18:10:59.349 712  [main] INFO  Es2.MainSum - somma somme parziali: 100186.98647538868
+18:12:14.442 504  [main] INFO  Es2.MainSum - sum is: 91029.0
+18:12:14.447 509  [main] INFO  Es2.MainSum - somma completa: 150520.0
+18:12:14.447 509  [main] INFO  Es2.MainSum - somma somme parziali: 99563.0
