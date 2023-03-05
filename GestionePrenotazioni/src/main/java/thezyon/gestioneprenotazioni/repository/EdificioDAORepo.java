@@ -14,7 +14,5 @@ public interface EdificioDAORepo extends JpaRepository<Edificio, Integer> {
 
     public List<Edificio> getEdificioByCitta(String citta);
 
-    @Query("SELECT p FROM Postazione p WHERE p.edificio= ?1")
-    public List<Postazione> getPostazioniEdificio(Edificio e);
 
 }

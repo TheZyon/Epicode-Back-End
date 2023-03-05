@@ -13,23 +13,13 @@ import java.util.stream.Stream;
 
 @Component
 public class EdificioRunner implements ApplicationRunner {
-    @Autowired EdificioService service;
+    @Autowired private EdificioService service;
+
     @Override
     public void run(ApplicationArguments args) throws Exception {
 
-//        var u = new Edificio("E1", "Via Craxi n.99", "Milano");
+        //        popolaDB();
 
-
-        //  CRUD OPS
-
-
-//        service.create(u);
-//        service.deleteById(2);
-
-//        var claretta = service.getById(2);
-//        log.info(claretta.toString());
-
-//        popolaDB();
     }
 
 
@@ -38,7 +28,7 @@ public class EdificioRunner implements ApplicationRunner {
 
         List<Edificio> p = Stream.of(
 
-
+                new Edificio("E1", "Via Craxi n.99", "Milano"),
                 new Edificio("E2", "Viale dei comparini n.33", "Viareggio"),
                 new Edificio("E3", "Infrattamento erboso n.69", "Lecciona")
                  ).toList();

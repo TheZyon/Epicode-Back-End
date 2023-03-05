@@ -7,4 +7,6 @@ import thezyon.gestioneprenotazioni.model.Utente;
 @Repository
 public interface UtenteDAORepo extends CrudRepository<Utente, Integer> {
 
+    public boolean existsByNomeCompleto(String nomeCompleto);
+
 }

@@ -24,17 +24,11 @@ import java.util.stream.Stream;
 @Component
 public class PostazioneRunner implements ApplicationRunner {
     Logger log = LoggerFactory.getLogger(PostazioneRunner.class);
-    @Autowired EdificioService edificioService;
-    @Autowired
-    EdificioDAORepo daoEdificio;
-    @Autowired
-    PostazioneDAORepo daoPostazione;
-    @Autowired PostazioneService postazioneService;
+    @Autowired private EdificioService edificioService;
+    @Autowired private EdificioDAORepo daoEdificio;
+    @Autowired private PostazioneDAORepo daoPostazione;
+    @Autowired private PostazioneService postazioneService;
 
-
-    @PersistenceContext
-
-    EntityManager em;
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
@@ -54,12 +48,14 @@ public class PostazioneRunner implements ApplicationRunner {
 
 
         var e = edificioService.getById(1).orElse(null);
-        if(e!=null){
+        var e1= edificioService.getById(2).orElse(null);
+        if(e!=null&&e1!=null){
 
             List<Postazione> p = Stream.of(
                     new Postazione(Tipo.SALA_RIUNIONI, 20,(Edificio) e ),
                     new Postazione(Tipo.PRIVATO, 5, e),
-                    new Postazione(Tipo.SALA_RIUNIONI, 15, e)
+                    new Postazione(Tipo.SALA_RIUNIONI, 15, e),
+                    new Postazione(Tipo.PRIVATO, 3, e1)
             ).toList();
 
 

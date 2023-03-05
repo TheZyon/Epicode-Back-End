@@ -15,6 +15,9 @@ public class UtenteService {
     Logger log = LoggerFactory.getLogger(UtenteService.class);
 @Autowired UtenteDAORepo daoUtente;
 
+public UtenteService(UtenteDAORepo utenteDAORepo){
+    this.daoUtente=utenteDAORepo;
+}
 
 //create
 public void create(Utente u){
