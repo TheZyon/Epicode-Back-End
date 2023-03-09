@@ -76,7 +76,9 @@ public class PostazioneService {
         daoPostazione.deleteById(id);
     }
 
-
+    public  Postazione jsonPrep(Postazione p){
+        return new Postazione(p.getId(), p.getDescrizione(), p.getTipo(), p.getNumeroMaxOccupanti());
+    }
 
 
 }

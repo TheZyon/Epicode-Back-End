@@ -33,7 +33,7 @@ public class PostazioneRunner implements ApplicationRunner {
     @Override
     public void run(ApplicationArguments args) throws Exception {
 
-//        popolaDB();
+        popolaDB();
 
 //##### utente può ricercare postazioni by città (dell'edificio) e tipo (della postazione) ####
 //    postazioneService.getByTipoAndCitta(Tipo.SALA_RIUNIONI, "Milano")
@@ -47,8 +47,8 @@ public class PostazioneRunner implements ApplicationRunner {
    public void popolaDB(){
 
 
-        var e = edificioService.getById(1).orElse(null);
-        var e1= edificioService.getById(2).orElse(null);
+        var e = edificioService.getById(1);
+        var e1= edificioService.getById(2);
         if(e!=null&&e1!=null){
 
             List<Postazione> p = Stream.of(

@@ -43,7 +43,7 @@ public class UtenteController {
     public ResponseEntity<Utente> getById(@PathVariable Integer id){
         var utente= utenteService.jsonPrep(utenteService.getById(id));
 
-        return new ResponseEntity<>(utente, HttpStatus.OK );
+        return new ResponseEntity<>(utente, HttpStatus.OK);
     }
 
     //Update

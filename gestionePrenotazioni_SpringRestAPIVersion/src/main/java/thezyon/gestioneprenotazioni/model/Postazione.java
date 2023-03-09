@@ -55,4 +55,11 @@ public class Postazione {
         this.numeroMaxOccupanti = numeroMaxOccupanti;
         this.edificio = edificio;
     }
+
+    public Postazione(int id, String descrizione, @NonNull Tipo tipo, @NonNull Integer numeroMaxOccupanti) {
+        this.id = id;
+        this.descrizione = descrizione;
+        this.tipo = tipo;
+        this.numeroMaxOccupanti = numeroMaxOccupanti;
+    }
 }

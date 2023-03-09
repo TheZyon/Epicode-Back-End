@@ -1,5 +1,7 @@
 package thezyon.gestioneprenotazioni.service;
 
+import jakarta.persistence.EntityExistsException;
+import jakarta.persistence.EntityNotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,9 +26,11 @@ public class EdificioService {
 
 
     //create
-    public void create(Edificio u){
-        daoEdificio.save(u);
+    public Edificio create(Edificio e){
+        if(daoEdificio.existsByIndirizzo(e.getIndirizzo())) throw new EntityExistsException("Edificio in tale indirizzo esiste già!");
+        daoEdificio.save(e);
         log.info("CREATED IN DB");
+        return e;
     }
 
 
@@ -34,8 +38,8 @@ public class EdificioService {
 
     //Read
 
-    public Optional<Edificio> getById(int id){
-        return daoEdificio.findById(id);
+    public Edificio getById(int id){
+        return daoEdificio.findById(id).orElseThrow(()->new EntityNotFoundException("Edificio non trovato!"));
     }
 
 
@@ -43,7 +47,7 @@ public class EdificioService {
     @Transactional
     public List<Postazione> getPostazioniEdificio(int id){
         List<Postazione> list = null;
-        var e = getById(id).orElseGet(null);
+        var e = getById(id);
         if(e!=null) list=e.getPostazioni();
         list.forEach(postazione -> System.out.println(postazione.getId()));
         return list;
@@ -51,15 +55,26 @@ public class EdificioService {
 
     //update
 
-    public void update(Edificio u){
+    public String update(Edificio u){
+        if(daoEdificio.existsByIndirizzo(u.getIndirizzo()))throw new EntityExistsException("Edificio esiste già!");
         daoEdificio.save(u);
+        return "UPDATED";
     }
 
     //delete
-    public void deleteById(int id){
+    public String deleteById(int id){
+
+        daoEdificio.findById(id).orElseThrow(()->new EntityNotFoundException());
         daoEdificio.deleteById(id);
+        return "DELETED";
     }
 
 
     public void createAll(List<Edificio> p) {daoEdificio.saveAll(p);}
+
+    public Edificio jsonPrep(Edificio e){
+        return new Edificio(e.getId(), e.getNome(), e.getIndirizzo(), e.getCitta());
+    }
+
+
 }

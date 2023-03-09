@@ -24,23 +24,19 @@ public UtenteService(UtenteDAORepo utenteDAORepo){
 //create
 public void create(Utente u){
 
-        if(daoUtente.existsByUsernameAndEmail(u.getUsername(), u.getEmail()))throw new EntityExistsException("L'utente esiste ed è di Ocane!");
+        if(daoUtente.existsByUsernameAndEmail(u.getUsername(), u.getEmail()))throw new EntityExistsException("CREATE FAILED: l'utente esiste già!");
         daoUtente.save(u);
         log.info("CREATED IN DB");
     }
 
-public void createAll(List<Utente> utenti){
-    daoUtente.saveAll(utenti);
+public void createAll(List<Utente> utenti){ daoUtente.saveAll(utenti);
 }
 
 //Read
 public Utente getById(int id){
 
-    var u=  daoUtente.findById(id).orElseGet(null);
-    if(u==null) throw new EntityNotFoundException("utente non esiste!");
-    else{
-       return u;
-    }
+    var u= daoUtente.findById(id).orElseThrow(()->new EntityNotFoundException("Utente non esiste!"));
+    return u;
 
 }
 
@@ -51,12 +47,15 @@ public List<Utente> getAll(){
     //update
 
     public void update(Utente u){
-    if(daoUtente.existsByUsernameAndEmail(u.getUsername(), u.getEmail()))throw new EntityExistsException("L'utente esiste ed è di Ocane!");
+    if(daoUtente.existsByUsernameAndEmail(u.getUsername(), u.getEmail())) throw new EntityExistsException("UPDATE FAILED: l'utente con queste credenziali esiste già!");
     daoUtente.save(u);
     }
 
     //delete
     public void deleteById(int id){
+
+    daoUtente.findById(id).orElseThrow(()->new EntityNotFoundException("DELETE FAILED: l'utente con questo id non esiste!"));
+
     daoUtente.deleteById(id);
     }
 

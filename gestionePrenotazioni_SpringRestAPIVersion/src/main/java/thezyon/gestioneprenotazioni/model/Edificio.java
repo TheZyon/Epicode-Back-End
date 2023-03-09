@@ -35,4 +35,10 @@ public class Edificio {
         postazioni.add(p);
     }
 
+    public Edificio(Integer id, @NonNull String nome, @NonNull String indirizzo, @NonNull String citta) {
+        this.id= id;
+        this.nome = nome;
+        this.indirizzo = indirizzo;
+        this.citta = citta;
+    }
 }

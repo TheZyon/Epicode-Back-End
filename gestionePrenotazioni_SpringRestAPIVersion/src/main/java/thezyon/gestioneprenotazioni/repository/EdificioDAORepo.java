@@ -13,6 +13,6 @@ import java.util.List;
 public interface EdificioDAORepo extends JpaRepository<Edificio, Integer> {
 
     public List<Edificio> getEdificioByCitta(String citta);
-
+    public boolean existsByIndirizzo(String indirizzo);
 
 }
